@@ -1,2 +1,2 @@
-# todo-apps-golang
+# todo-cli-golang
 
